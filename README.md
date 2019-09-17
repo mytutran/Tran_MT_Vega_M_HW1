@@ -1,5 +1,6 @@
 # Team MMT!
 
-Hey! I'm My Tu Tran, I'm a Cantonese-Vietnamese international student.
-
-I'm Mariapaz Vega, a high school graduate. 
+#My Tu Tran's bio:
+	Nationality: Cantonese-Vietnamese
+	Interests: play with animals, play video games, cooking and listening to Jazz.
+	Facebook: facebook.com/Evanius
